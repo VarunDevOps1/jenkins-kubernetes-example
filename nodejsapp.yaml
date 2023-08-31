@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: public.ecr.aws/j4j5x5f1/docker_image:latest
+        image: 116530923134.dkr.ecr.ap-south-1.amazonaws.com/images
         ports:
           - containerPort: 3000
 ---
